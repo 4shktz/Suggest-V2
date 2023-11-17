@@ -1,0 +1,27 @@
+{
+  "name": "suggest-v2",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "main": "main.js",
+  "dependencies": {
+    "esbuild": "^0.18.20",
+    "nanoid": "^3.3.7",
+    "picocolors": "^1.0.0",
+    "postcss": "^8.4.31",
+    "rollup": "^3.29.4",
+    "source-map-js": "^1.0.2",
+    "underscore": "^1.13.6"
+  },
+  "author": "4shktz",
+  "license": "ISC",
+  "description": ""
+}
